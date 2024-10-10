@@ -1,5 +1,3 @@
-Comparison and implementations of various clustering algorithms.
+Comparison and implementations of various clustering algorithms. Simple analisys of the results - an attempt to see some color patterns in diffrent art movements.
 
-Image: trees built by hierarchical clustering on a Verneer painting.
-
-![alt text](https://github.com/JohnBohnam/Clustering/blob/main/plots/girl_trees.png?raw=t)
+![demo animation](./v2/output/sample/starry_night.gif)
